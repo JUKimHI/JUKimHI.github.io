@@ -1,7 +1,7 @@
 ---
 title: "[Python] 리스트를 문자열로 변환하기 (join 함수)"
 date: 2026-01-10 00:00:00 +0900
-categories: [Coding Test, Python]
+categories: [프로그래머스, 기초[python]]
 tags: [python, algorithm, 기초]
 ---
 ## 문제 설명
