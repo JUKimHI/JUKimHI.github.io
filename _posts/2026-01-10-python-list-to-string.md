@@ -13,6 +13,7 @@ tags: [python, algorithm, 기초]
 ```python
 def solution(arr):
     return "".join(arr)
+```
 
 ## 💡 이번 문제를 통해 배운 점
 오늘 코딩 테스트 연습을 하면서 리스트를 문자열로 합치는 방법을 배웠습니다.
